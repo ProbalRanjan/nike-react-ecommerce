@@ -7,3 +7,15 @@ body {
 .heading {
     font-family: 'Bebas Neue', cursive;
 }
+
+.hero-bg {
+    background-color: #FFF9F4;
+}
+
+.orange {
+    color: #FA804C;
+}
+
+.navy {
+    color: #363958;
+}
